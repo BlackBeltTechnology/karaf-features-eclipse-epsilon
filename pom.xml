@@ -3,7 +3,7 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <groupId>hu.blackbelt.karaf.features</groupId>
-    <version>1.5.2-SNAPSHOT</version>
+    <version>1.0.0-SNAPSHOT</version>
 
     <artifactId>eclipse-epsilon</artifactId>
     <name>Eclipse Epsilon Karaf feature project</name>
@@ -12,13 +12,12 @@
     <properties>
         <karaf-version>4.2.5</karaf-version>
         <cxf-version>3.3.1</cxf-version>
-        <javax-karaf-features-version>1.0.1</javax-karaf-features-version>
         <antlr-karaf-features-version>1.0.0</antlr-karaf-features-version>
         <bouncycastle-karaf-features-version>1.61.2</bouncycastle-karaf-features-version>
-        <apache-commons-karaf-features-version>1.0.2</apache-commons-karaf-features-version>
-        <apache-httpclient-karaf-features-version>4.5.3_2</apache-httpclient-karaf-features-version>
-        <apache-poi-karaf-features-version>1.0.0</apache-poi-karaf-features-version>
-        <google-karaf-features-version>1.0.1</google-karaf-features-version>
+        <apache-commons-karaf-features-version>1.0.5</apache-commons-karaf-features-version>
+        <apache-httpclient-karaf-features-version>1.0.0</apache-httpclient-karaf-features-version>
+        <apache-poi-karaf-features-version>1.0.2</apache-poi-karaf-features-version>
+        <google-karaf-features-version>1.0.3</google-karaf-features-version>
         <eclipse-emf-karaf-features-version>2.12.1</eclipse-emf-karaf-features-version>
     </properties>
 
