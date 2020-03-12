@@ -12,7 +12,7 @@
         <feature>stringtemplate3</feature>
         <feature>google-gdata</feature>
         <feature>eclipse-emf</feature>
-        <bundle>mvn:hu.blackbelt.bundles.eclipse-epsilon/org.eclipse.epsilon/1.5.1_1</bundle>
+        <bundle>mvn:hu.blackbelt.bundles.eclipse-epsilon/org.eclipse.epsilon/1.5.1_2</bundle>
     </feature>
 
 </features>
