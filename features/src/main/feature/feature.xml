@@ -29,7 +29,7 @@
         <feature>apache-poi3</feature>
         <feature>stringtemplate3</feature>
         <feature>eclipse-emf</feature>
-        <bundle>mvn:hu.blackbelt.bundles.eclipse-epsilon/org.eclipse.epsilon/2.2.0_1</bundle>
+        <bundle>mvn:hu.blackbelt.bundles.eclipse-epsilon/org.eclipse.epsilon/2.2.0_2</bundle>
     </feature>
 
 </features>
