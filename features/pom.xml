@@ -82,6 +82,8 @@
                             </framework>
                             <features>
                                 <feature>eclipse-epsilon</feature>
+                                <feature>eclipse-epsilon-1</feature>
+                                <feature>eclipse-epsilon-2</feature>
                             </features>
                         </configuration>
                     </execution>
