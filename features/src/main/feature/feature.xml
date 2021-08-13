@@ -26,10 +26,10 @@
         <feature>apache-commons-csv</feature>
         <feature>apache-commons-lang3</feature>
         <feature>apache-commons-math3</feature>
-        <feature>apache-poi3</feature>
+        <feature>apache-poi4</feature>
         <feature>stringtemplate3</feature>
         <feature>eclipse-emf</feature>
-        <bundle>mvn:hu.blackbelt.bundles.eclipse-epsilon/org.eclipse.epsilon/2.2.0_2</bundle>
+        <bundle>mvn:hu.blackbelt.bundles.eclipse-epsilon/org.eclipse.epsilon/2.2.0_3</bundle>
     </feature>
 
 </features>
