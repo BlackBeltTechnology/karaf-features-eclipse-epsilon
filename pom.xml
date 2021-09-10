@@ -1,7 +1,7 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <groupId>hu.blackbelt.karaf.features</groupId>
-    <version>1.0.5</version>
+    <version>1.0.6</version>
 
     <artifactId>eclipse-epsilon</artifactId>
     <name>Eclipse Epsilon Karaf feature project</name>
@@ -10,14 +10,14 @@
     <properties>
         <project-shortname>eclipse-epsilon</project-shortname>
         <project-repositoryId>BlackBeltTechnology/osgi-liquibase</project-repositoryId>
-
-        <karaf-version>4.2.5</karaf-version>
-        <cxf-version>3.3.1</cxf-version>
+        <cxf-version>3.4.4</cxf-version>
+        <jackson-version>2.11.4</jackson-version>
+        <karaf-version>4.2.9</karaf-version>
         <antlr-karaf-features-version>1.0.1</antlr-karaf-features-version>
         <bouncycastle-karaf-features-version>1.61.2</bouncycastle-karaf-features-version>
-        <apache-commons-karaf-features-version>1.0.5</apache-commons-karaf-features-version>
+        <apache-commons-karaf-features-version>1.0.6</apache-commons-karaf-features-version>
         <apache-httpclient-karaf-features-version>1.0.0</apache-httpclient-karaf-features-version>
-        <apache-poi-karaf-features-version>1.0.2</apache-poi-karaf-features-version>
+        <apache-poi-karaf-features-version>1.0.3</apache-poi-karaf-features-version>
         <google-karaf-features-version>1.0.4</google-karaf-features-version>
         <eclipse-emf-karaf-features-version>1.0.0</eclipse-emf-karaf-features-version>
     </properties>
