@@ -19,7 +19,7 @@
         <bundle>mvn:hu.blackbelt.bundles.eclipse-epsilon/org.eclipse.epsilon/1.5.1_2</bundle>
     </feature>
 
-    <feature name="eclipse-epsilon-2" version="2.2.0" description="Eclipse Epsilon" install="false">
+    <feature name="eclipse-epsilon-2" version="2.3.0" description="Eclipse Epsilon" install="false">
         <feature>guava-27</feature>
         <feature>antlr3</feature>
         <feature>apache-commons-collections</feature>
@@ -29,7 +29,9 @@
         <feature>apache-poi4</feature>
         <feature>stringtemplate3</feature>
         <feature>eclipse-emf</feature>
-        <bundle>mvn:hu.blackbelt.bundles.eclipse-epsilon/org.eclipse.epsilon/2.2.0_3</bundle>
+        <feature>cxf-jackson</feature>
+        <bundle>mvn:org.yaml/snakeyaml/1.29</bundle>
+        <bundle>mvn:hu.blackbelt.bundles.eclipse-epsilon/org.eclipse.epsilon/2.3.0_1</bundle>
     </feature>
 
 </features>
