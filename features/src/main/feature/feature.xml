@@ -31,7 +31,7 @@
         <feature>eclipse-emf</feature>
         <feature>cxf-jackson</feature>
         <bundle>mvn:org.yaml/snakeyaml/1.29</bundle>
-        <bundle>mvn:hu.blackbelt.bundles.eclipse-epsilon/org.eclipse.epsilon/2.3.0_1</bundle>
+        <bundle>mvn:hu.blackbelt.bundles.eclipse-epsilon/org.eclipse.epsilon/2.4.0_1</bundle>
     </feature>
 
 </features>
